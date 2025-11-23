@@ -1,3 +1,3 @@
-# comp2245-assignment4
-# COMP2245 Assignment 4
-This is Assignment 4 for Che-Oumar Weston on PHP and MySQL.
+# COMP2245 Lab 5
+
+This is Lab 5 for <Your Name> on PHP and MySQL
